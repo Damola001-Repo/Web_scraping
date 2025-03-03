@@ -1,0 +1,4 @@
+tours:
+  css: '#displaytimer'
+heading:
+  css: 'h1'
